@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: white;
+}
+main{
+  background-color: black;
+}
+#details{
+  padding: 10px;
+}
+
+button{
+  background-color: white;
+  color: black;
+  border: none;
+  width: 20%;
+  margin-left: 10px;
+}
+
+#btn{
+  padding: 10px;
+}
+
+#reset{
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+  margin-left: 10px;
+}
+
+#error{
+  color: red;
+  font-size: 20px;
+}
